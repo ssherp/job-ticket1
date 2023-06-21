@@ -7,23 +7,23 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* converted class tag to a header tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* convert to header h1 tag */
  header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
- header h1 .seo {
+/* convert to header .seo*/
+.seo {
     color: #d9dcd6;
 }
-
+/* added nav tag */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* changed tag to banner class */
+.banner {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
