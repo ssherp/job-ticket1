@@ -26,8 +26,6 @@ On this job ticket, i was able to learn how to reorganize HTML and CSS to make i
 
 
 ## Sonam Sherpa
-[Linkedin](https://www.linkedin.com/in/sonam-sherpa-306559280)
-
 
 * [Linkedin](https://www.linkedin.com/in/sonam-sherpa-306559280)
 * [Github](https://github.com/ssherp/)
