@@ -17,11 +17,11 @@ As a coding consultant I was contracted by Horiseon to refractor their existing 
 ## Usage 
 This page is to help Horiseon customer understand what to do to improve company profiles by using Search Engine Optimization, Online Reputation Management, Social Media Marketing   
 
-![screenshot of Horseon website](../job-ticket1/assets/images/Horiseon-refactor.png)
+![screenshot of Horseon website](./assets/images/Horiseon-refactor.png)
 
 
 
-## Learning Points 
+## Learning Points
 On this job ticket, i was able to learn how to reorganize HTML and CSS to make it more user friendly without changing the front end of the website.
 
 
